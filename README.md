@@ -1,1 +1,1 @@
-shell basics script
+displaying the content of current working directory
