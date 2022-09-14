@@ -1,1 +1,1 @@
-script that print allpaths
+script to print enviroment
