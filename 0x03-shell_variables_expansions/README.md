@@ -1,1 +1,1 @@
-script that print power and divide by divide
+script that display the result of breath to the power Love
