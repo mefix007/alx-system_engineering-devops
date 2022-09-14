@@ -1,1 +1,1 @@
-script the rot of codes
+script that print every lines
