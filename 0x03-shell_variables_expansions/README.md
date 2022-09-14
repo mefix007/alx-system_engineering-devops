@@ -1,1 +1,1 @@
-a script for hello user
+script that write path
