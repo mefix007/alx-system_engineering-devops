@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf "#!/ova/onfu"
+ tr `echo {a..z} |tr -d des ' '` `echo  {n..z} $(echo {a..n}) | tr -d ' '`  | tr `echo {A..Z} | ' '` `echo {N..Z} $(echo {A..N)) |tr -d ' '`
