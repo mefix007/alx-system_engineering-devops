@@ -1,1 +1,1 @@
-script to change loacal variables
+script to write global variables
