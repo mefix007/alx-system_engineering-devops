@@ -1,1 +1,1 @@
-shell script that adds the two numbers stored in the enviroments
+decimal to hexadecimal
