@@ -1,1 +1,1 @@
-script that write path
+script that print allpaths
