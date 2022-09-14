@@ -1,1 +1,1 @@
-script to write global variables
+script displaying a true knowledge
