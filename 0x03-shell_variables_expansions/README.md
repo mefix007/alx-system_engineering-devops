@@ -1,1 +1,1 @@
-script to print local variables
+script to change loacal variables
