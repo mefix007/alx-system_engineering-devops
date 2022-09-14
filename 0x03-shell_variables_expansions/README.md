@@ -1,1 +1,1 @@
-script to print enviroment
+script to print local variables
