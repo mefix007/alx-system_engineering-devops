@@ -1,1 +1,1 @@
-script displaying a true knowledge
+script that print power and divide by divide
